@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../WFD-fixed-header-footer/.idea/WFD-fixed-header-footer.iml" filepath="$PROJECT_DIR$/../WFD-fixed-header-footer/.idea/WFD-fixed-header-footer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bai1css.iml" filepath="$PROJECT_DIR$/.idea/bai1css.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" filepath="$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../viducss/.idea/viducss.iml" filepath="$PROJECT_DIR$/../viducss/.idea/viducss.iml" />
+    </modules>
+  </component>
+</project>
